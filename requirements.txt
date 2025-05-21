@@ -1,0 +1,8 @@
+requests
+dnspython
+python-whois
+geoip2
+nmap
+pyfiglet
+colorama
+wafw00f
