@@ -53,7 +53,6 @@ python cybersnoop.py
 
 ![CyberSnoop Screenshot](screenshot.png)
 
-> Replace this with an actual screenshot of the CLI in action.
 
 ---
 
