@@ -62,8 +62,9 @@ python cybersnoop.py
 CyberSnoop/
 │
 ├── cybersnoop.py       # Main script (CLI)
-├── modules/             # Scanning and recon modules
+├── Screenshot             # Image For Program
 ├── requirements.txt     # Dependencies
+└── MIT LICENSE            # Software License
 └── README.md            # Project documentation
 ```
 
