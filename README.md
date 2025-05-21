@@ -61,11 +61,11 @@ python cybersnoop.py
 ```
 CyberSnoop/
 │
-├── cybersnoop.py       # Main script (CLI)
-├── Screenshot             # Image For Program
-├── requirements.txt     # Dependencies
-└── MIT LICENSE            # Software License
-└── README.md            # Project documentation
+├── cybersnoop.py         # Main script (CLI)
+├── Screenshot            # Image For Program
+├── requirements.txt      # Dependencies
+└── MIT LICENSE           # Software License
+└── README.md             # Project documentation
 ```
 
 ---
